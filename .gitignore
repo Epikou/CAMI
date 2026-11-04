@@ -1,0 +1,8 @@
+# Anciennes images, conservées en local uniquement
+assets/_archive/
+# Images qui ne sont plus utilisées par le site
+assets/images/hero-detective2.jpg
+assets/images/hero-detective2.webp
+# Outils locaux
+node_modules/
+.claude/

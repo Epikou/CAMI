@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/_archive/
+
+Sitemap: https://www.cami-investigations.fr/sitemap.xml

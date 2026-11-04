@@ -1,0 +1,24 @@
+/* Polices hébergées localement (sous-ensemble latin, fontes variables)
+   Téléchargées depuis Google Fonts — licence SIL Open Font License.
+   Aucun appel vers des serveurs tiers au chargement du site. */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 400 900;
+  font-display: swap;
+  src: url('Cinzel-variable.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url('PlusJakartaSans-variable.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('PlusJakartaSans-italic.woff2') format('woff2');
+}
